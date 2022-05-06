@@ -10,9 +10,10 @@ LIBRARY INSTALLATION :
  
  INSTALLATION INSTRUCTIONS :
    1. Download the complete git repository.
-   2. In the Task 2 directory ,open terminal and run the make command.
-   3. Then next ./a.out server (for the server) and ./a.out client [IP address of server]( example for client : ./a.out client 127.0.0.1 )
-   4. Make sure to connect both devices with same wifi .
+   2.Extract the repository downloaded then you will get a task 2 folder.
+   3. In the Task 2 directory ,open terminal and run the make command.
+   4. Then next ./a.out server (for the server) and ./a.out client [IP address of server]( example for client : ./a.out client 127.0.0.1 )
+   5. Make sure to connect both devices with same wifi .
  
  RESOURCES USED:
  1. LAZY FOO TUTORIALS:
