@@ -9,13 +9,13 @@ LIBRARY INSTALLATION :
   4. SDL2-TTF :sudo apt-get install libsdl2-ttf-dev
  
  INSTALLATION INSTRUCTIONS :
-   . Download the complete git repository.
-   . In the Task 2 directory ,open terminal and run the make command.
-   . Then next ./a.out server (for the server) and ./a.out client [IP address of server]( example for client : ./a.out client 127.0.0.1 )
-     Make sure to connect both devices with same wifi .
+   1. Download the complete git repository.
+   2. In the Task 2 directory ,open terminal and run the make command.
+   3. Then next ./a.out server (for the server) and ./a.out client [IP address of server]( example for client : ./a.out client 127.0.0.1 )
+   4. Make sure to connect both devices with same wifi .
  
  RESOURCES USED:
- -LAZY FOO TUTORIALS:
- -SOCKETS:https://youtu.be/LNSqqxIKX_k
- -https://youtu.be/PHaP3wDggnw
+ 1. LAZY FOO TUTORIALS:
+ 2. SOCKETS:https://youtu.be/LNSqqxIKX_k
+ 3. https://youtu.be/PHaP3wDggnw
  
